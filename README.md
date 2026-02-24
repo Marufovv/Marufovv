@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Student of Fergana State University (FARDU)  
+- 🎓 Student from Uzbekistan 🇺🇿 
 - 📊 Passionate about Data Analysis  
 - 🚀 Currently learning Advanced DAX  
 - 🎯 Goal: Become a Professional Data Analyst  
