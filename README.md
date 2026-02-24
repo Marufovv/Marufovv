@@ -41,6 +41,6 @@
 ---
 
 ### 📫 Connect with me:
-Telegram: @yourusername
+Telegram: @marufovv
 
 
